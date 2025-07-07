@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Niaz, and I am a Data Scientist with experience across the field and a background in physics.
+
 - 🔭 I’m currently working on data science projects ranging from predictive analysis to GenAI application
 - 💬 Ask me about anything Data Science or physics related!
 - 🌱 I’m currently learning more about ML research and the seminal paper that are produced in the field
