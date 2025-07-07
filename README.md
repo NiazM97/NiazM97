@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 My name is Niaz, and I am a Data Scientist with experience across the field and a background in physics.
 
