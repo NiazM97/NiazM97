@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on data science projects ranging from predictive analysis to GenAI application
+- 💬 Ask me about anything Data Science or physics related!
+- 🌱 I’m currently learning more about ML research and the seminal paper that are produced in the field
+
 <!--
 **NiazM97/NiazM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
